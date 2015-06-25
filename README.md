@@ -11,6 +11,7 @@ awesome-awesome
 - [C++](https://github.com/fffaraz/awesome-cpp)
 - [Clojure](https://github.com/razum2um/awesome-clojure)
 - [Cobol](https://github.com/dshimy/awesome-cobol)
+- [CoffeeScript](http://coffeescript.org/#resources)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
 - [Common Lisp](https://notabug.org/koz.ross/awesome-cl)
 - [D](https://github.com/zhaopuming/awesome-d)
@@ -19,6 +20,7 @@ awesome-awesome
 - [Elixir](https://github.com/h4cc/awesome-elixir)
 - [Erlang](https://github.com/drobakowski/awesome-erlang)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran)
+- F#
 - [Go](https://github.com/avelino/awesome-go)
 - [Groovy](https://github.com/kdabir/awesome-groovy)
 - [Haskell](https://github.com/krispo/awesome-haskell)
@@ -39,6 +41,7 @@ awesome-awesome
 - [Rust](https://github.com/kud1ing/awesome-rust)
 - [Scala](https://github.com/lauris/awesome-scala)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
+- [TypeScript](https://github.com/dzharii/awesome-typescript)
 
 # Web Front-end
 
@@ -144,9 +147,12 @@ awesome-awesome
 - [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
 - [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) *(Neural networks)*
+- [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [awesome-json](https://github.com/burningtree/awesome-json)
+- [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [awesome-mooc](https://github.com/fffaraz/MOOC)
+- [awesome-pentest](https://github.com/enaqx/awesome-pentest)
 - [awesome-security](https://github.com/sbilly/awesome-security)
 - [awesome-shell](https://github.com/alebcay/awesome-shell)
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
@@ -163,4 +169,3 @@ awesome-awesome
 - [awesome](https://github.com/sindresorhus/awesome)
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [lists](https://github.com/jnv/lists)
-
