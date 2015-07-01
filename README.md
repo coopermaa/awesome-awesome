@@ -79,6 +79,7 @@ awesome-awesome
 - [nginx](https://github.com/fcambus/nginx-resources)
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs)
     - by [vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
+- [Node Frameworks](http://nodeframework.com/)    
 - [phalcon](https://github.com/sergeyklay/awesome-phalcon)
 - [Rails](https://github.com/dpaluy/awesome-rails)
 - [REST](https://github.com/marmelab/awesome-rest)
