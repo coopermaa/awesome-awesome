@@ -158,6 +158,7 @@ awesome-awesome
 - [awesome-regex](https://github.com/aloisdg/awesome-regex)
 - [awesome-security](https://github.com/sbilly/awesome-security)
 - [awesome-shell](https://github.com/alebcay/awesome-shell)
+- [awesome-slack](https://github.com/matiassingers/awesome-slack)
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
