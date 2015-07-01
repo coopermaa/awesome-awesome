@@ -154,6 +154,7 @@ awesome-awesome
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [awesome-mooc](https://github.com/fffaraz/MOOC)
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest)
+- [awesome-regex](https://github.com/aloisdg/awesome-regex)
 - [awesome-security](https://github.com/sbilly/awesome-security)
 - [awesome-shell](https://github.com/alebcay/awesome-shell)
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
