@@ -163,6 +163,8 @@ awesome-awesome
 - [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+- [Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)
+    - [staticgen](https://github.com/netlify/staticgen)
 - [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) *(from hakcer news)*
 - [workshopper](https://github.com/therebelrobot/awesome-workshopper)
 
