@@ -148,6 +148,7 @@ awesome-awesome
 - [awesome-apple](https://github.com/joeljfischer/awesome-apple)
 - [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
+- [awesome-db](https://github.com/numetriclabz/awesome-db)
 - [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) *(Neural networks)*
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [awesome-json](https://github.com/burningtree/awesome-json)
