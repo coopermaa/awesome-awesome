@@ -154,6 +154,7 @@ awesome-awesome
 - [awesome-json](https://github.com/burningtree/awesome-json)
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [awesome-microservice](https://github.com/wanghaisheng/awesome-microservice)
 - [awesome-mooc](https://github.com/fffaraz/MOOC)
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest)
 - [awesome-regex](https://github.com/aloisdg/awesome-regex)
