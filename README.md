@@ -47,6 +47,7 @@ awesome-awesome
 
 - [awesome-frontend](https://github.com/JingwenTian/awesome-frontend)
 - [angularjs](https://github.com/gianarb/awesome-angularjs)
+  - [angular2-education](https://github.com/timjacobi/angular2-education)
 - [backbonejs](https://github.com/instanceofpro/awesome-backbone)
 - [bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
 - [Ember](https://github.com/nmec/awesome-ember)
