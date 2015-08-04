@@ -161,6 +161,7 @@ awesome-awesome
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest)
 - [awesome-regex](https://github.com/aloisdg/awesome-regex)
 - [awesome-security](https://github.com/sbilly/awesome-security)
+- [awesome-self-hosted)(https://github.com/Kickball/awesome-selfhosted)
 - [awesome-shell](https://github.com/alebcay/awesome-shell)
 - [awesome-slack](https://github.com/matiassingers/awesome-slack)
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
