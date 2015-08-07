@@ -83,6 +83,7 @@ awesome-awesome
 - [Node Frameworks](http://nodeframework.com/)    
 - [phalcon](https://github.com/sergeyklay/awesome-phalcon)
 - [Rails](https://github.com/dpaluy/awesome-rails)
+  - by[Ekrem Karaca](https://github.com/ekremkaraca/awesome-rails)
 - [REST](https://github.com/marmelab/awesome-rest)
 - [WordPress](https://github.com/miziomon/awesome-wordpress)
 - [yii](https://github.com/iJackUA/awesome-yii)
