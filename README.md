@@ -122,6 +122,7 @@ awesome-awesome
 
 - [awesome-cloud](https://github.com/JStumpp/awesome-cloud)
 - [awesome-cloud-storage](https://github.com/wapmorgan/awesome-cloud-storage)
+- [awesome-openstack](https://github.com/ramitsurana/awesome-openstack)
 - [free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [Mesos](https://github.com/dharmeshkakadia/awesome-mesos)
 
