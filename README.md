@@ -113,10 +113,10 @@ awesome-awesome
 - [Electron](https://github.com/sindresorhus/awesome-electron) *(formerly atom-shell)*
 - [React Native](https://github.com/jondot/awesome-react-native)
 
-# Virtualization
+# Virtualization (Server, Network, Storage)
 
-- [Docker](https://github.com/veggiemonk/awesome-docker)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
+- [Docker](https://github.com/veggiemonk/awesome-docker)
 
 # Cloud Computing
 
@@ -146,6 +146,14 @@ awesome-awesome
 - [games](https://github.com/leereilly/games)
 - [Unity](https://github.com/RyanNielson/awesome-unity)
 
+# Networking and Security
+
+- [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools)
+  (TBD) by coopermaa
+- [awesome-pentest](https://github.com/enaqx/awesome-pentest)
+- [awesome-security](https://github.com/sbilly/awesome-security)
+- (TBD) awesome-sdn
+
 # Miscellaneous
 
 - [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
@@ -161,10 +169,7 @@ awesome-awesome
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [awesome-microservice](https://github.com/wanghaisheng/awesome-microservice)
 - [awesome-mooc](https://github.com/fffaraz/MOOC)
-- [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools)
-- [awesome-pentest](https://github.com/enaqx/awesome-pentest)
 - [awesome-regex](https://github.com/aloisdg/awesome-regex)
-- [awesome-security](https://github.com/sbilly/awesome-security)
 - [awesome-self-hosted](https://github.com/Kickball/awesome-selfhosted)
 - [awesome-shell](https://github.com/alebcay/awesome-shell)
 - [awesome-slack](https://github.com/matiassingers/awesome-slack)
