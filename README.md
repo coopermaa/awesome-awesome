@@ -13,7 +13,6 @@ awesome-awesome
 - [Cobol](https://github.com/dshimy/awesome-cobol)
 - [CoffeeScript](http://coffeescript.org/#resources)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
-- [Common Lisp](https://notabug.org/koz.ross/awesome-cl)
 - [D](https://github.com/zhaopuming/awesome-d)
 - [Dart](https://github.com/yissachar/awesome-dart)
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
@@ -30,6 +29,9 @@ awesome-awesome
 - [Julia](https://github.com/svaksha/Julia.jl)
 - [Lua](https://github.com/LewisJEllis/awesome-lua)
     - by [forhappy](https://github.com/forhappy/awesome-lua)
+- Lisp
+  - [Common Lisp](https://github.com/CodyReichert/awesome-cl)
+  - Scheme
 - [OCaml](https://github.com/rizo/awesome-ocaml)
 - [Perl](https://github.com/hachiojipm/awesome-perl)
 - [PHP](https://github.com/ziadoz/awesome-php)
