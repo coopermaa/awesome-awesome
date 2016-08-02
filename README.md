@@ -9,6 +9,7 @@ awesome-awesome
 - [C](https://github.com/aleksandar-todorovic/awesome-c)
     - by [koz.ross](https://notabug.org/koz.ross/awesome-c)
 - [C++](https://github.com/fffaraz/awesome-cpp)
+- [C#](https://github.com/uhub/awesome-c-sharp)
 - [Clojure](https://github.com/razum2um/awesome-clojure)
 - [Cobol](https://github.com/dshimy/awesome-cobol)
 - [CoffeeScript](http://coffeescript.org/#resources)
