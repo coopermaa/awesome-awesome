@@ -106,6 +106,7 @@ awesome-awesome
 
 - [atom](https://github.com/mehcode/awesome-atom)
 - [.NET](https://github.com/quozd/awesome-dotnet)
+- [.NET Core](https://github.com/thangchung/awesome-dotnet-core)
 - [Git](https://git.wiki.kernel.org/index.php/Interfaces,_frontends,_and_tools)
 - [GitHub](https://github.com/fffaraz/awesome-github)
     - [GitHub Cheet Sheet](https://github.com/tiimgreen/github-cheat-sheet)
