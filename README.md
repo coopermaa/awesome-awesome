@@ -184,6 +184,7 @@ awesome-awesome
 - [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
 - [awesome-db](https://github.com/numetriclabz/awesome-db)
+- [awesome-devops](https://github.com/AcalephStorage/awesome-devops)
 - [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) *(Neural networks)*
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [awesome-json](https://github.com/burningtree/awesome-json)
