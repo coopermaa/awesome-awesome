@@ -123,6 +123,7 @@ awesome-awesome
 
 - [atom](https://github.com/mehcode/awesome-atom)
 - [.NET](https://github.com/quozd/awesome-dotnet)
+  - [LINQ](https://github.com/aloisdg/awesome-linq)
 - [.NET Core](https://github.com/thangchung/awesome-dotnet-core)
 - [Git](https://git.wiki.kernel.org/index.php/Interfaces,_frontends,_and_tools)
 - [GitHub](https://github.com/fffaraz/awesome-github)
