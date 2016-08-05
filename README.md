@@ -158,6 +158,8 @@ awesome-awesome
 ## IoT
 
 - [awesome-iot](https://github.com/phodal/awesome-iot)
+  - by [HQarroum](https://github.com/HQarroum/awesome-iot)
+- [awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot)
 - [Awesome Electronic and Hardware platform](https://gist.github.com/rgaidot/9132b50cdcdb455fccbe)
 - [iBeacon](https://github.com/beaconinside/awesome-ibeacon)
 - [Iot-hybrid](https://github.com/weblancaster/awesome-IoT-hybrid)
