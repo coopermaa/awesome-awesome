@@ -105,6 +105,7 @@ awesome-awesome
 - [phalcon](https://github.com/sergeyklay/awesome-phalcon)
 - [Rails](https://github.com/dpaluy/awesome-rails)
   - by[Ekrem Karaca](https://github.com/ekremkaraca/awesome-rails)
+  - [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)
 - [REST](https://github.com/marmelab/awesome-rest)
 - [WordPress](https://github.com/miziomon/awesome-wordpress)
 - [yii](https://github.com/iJackUA/awesome-yii)
