@@ -82,6 +82,7 @@ awesome-awesome
 - [sass](https://github.com/HugoGiraudel/awesome-sass)
 - [search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization)
 - [selenium](https://github.com/christian-bromann/awesome-selenium)
+- [vue.js](https://github.com/vuejs/awesome-vue)
 - [webcomponents](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [web performance optimization](https://github.com/davidsonfellipe/awesome-wpo)
 
