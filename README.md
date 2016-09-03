@@ -109,6 +109,7 @@ awesome-awesome
   - by [Ekrem Karaca](https://github.com/ekremkaraca/awesome-rails)
   - [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)  
 - [REST](https://github.com/marmelab/awesome-rest)
+- [serverless](https://github.com/JustServerless/awesome-serverless)
 - [WordPress](https://github.com/miziomon/awesome-wordpress)
 - [yii](https://github.com/iJackUA/awesome-yii)
 
