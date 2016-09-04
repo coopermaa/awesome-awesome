@@ -31,6 +31,7 @@ awesome-awesome
 - [Cobol](https://github.com/dshimy/awesome-cobol)
 - [CoffeeScript](http://coffeescript.org/#resources)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
+- [Crystal](https://github.com/veelenga/awesome-crystal)
 - [D](https://github.com/zhaopuming/awesome-d)
 - [Dart](https://github.com/yissachar/awesome-dart)
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
