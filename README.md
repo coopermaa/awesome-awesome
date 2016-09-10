@@ -182,7 +182,7 @@ awesome-awesome
   - by [coopermaa](https://github.com/coopermaa/awesome-pcaptools)  
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest)
 - [awesome-security](https://github.com/sbilly/awesome-security)
-- (TBD) awesome-sdn
+- [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn)
 
 ## Miscellaneous
 
