@@ -46,6 +46,7 @@ awesome-awesome
     - [awesome-jvm](https://github.com/deephacks/awesome-jvm)
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Julia](https://github.com/svaksha/Julia.jl)
+- [Kotlin](https://github.com/KotlinBy/awesome-kotlin)
 - [Lua](https://github.com/LewisJEllis/awesome-lua)
     - by [forhappy](https://github.com/forhappy/awesome-lua)
 - Lisp
