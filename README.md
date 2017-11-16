@@ -138,6 +138,7 @@ awesome-awesome
 - [GitHub](https://github.com/fffaraz/awesome-github)
     - [GitHub Cheet Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Qt](https://github.com/skhaz/awesome-qt)
+- [awesome-vscode](https://github.com/viatsko/awesome-vscode)
 
 ## Web for Desktop
 
