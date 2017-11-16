@@ -175,6 +175,7 @@ awesome-awesome
 - [Iot-hybrid](https://github.com/weblancaster/awesome-IoT-hybrid)
 - [awesome-avr](https://github.com/fffaraz/awesome-avr)
 - [awesome-arduino](https://github.com/Lembed/Awesome-arduino)
+- [awesome-electronics](https://github.com/monostable/awesome-electronics)
 - [awesome-microbit](https://github.com/carlosperate/awesome-microbit)
 
 ## Game
