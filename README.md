@@ -176,6 +176,7 @@ awesome-awesome
 - [awesome-avr](https://github.com/fffaraz/awesome-avr)
 - [awesome-arduino](https://github.com/Lembed/Awesome-arduino)
 - [awesome-electronics](https://github.com/monostable/awesome-electronics)
+- [jsemu](https://github.com/fcambus/jsemu) - Emulators written in JavaScript.
 - [awesome-microbit](https://github.com/carlosperate/awesome-microbit)
 
 ## Game
