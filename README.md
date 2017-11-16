@@ -209,6 +209,7 @@ awesome-awesome
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [awesome-microservice](https://github.com/wanghaisheng/awesome-microservice)
 - [awesome-mooc](https://github.com/fffaraz/MOOC)
+- [awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters)
 - [awesome-regex](https://github.com/aloisdg/awesome-regex)
 - [awesome-self-hosted](https://github.com/Kickball/awesome-selfhosted)
 - [awesome-shell](https://github.com/alebcay/awesome-shell)
