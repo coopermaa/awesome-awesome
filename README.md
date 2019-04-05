@@ -107,6 +107,7 @@ awesome-awesome
 - [nginx](https://github.com/fcambus/nginx-resources)
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs)
     - by [vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
+    - [Cross-platform Node.js](https://github.com/bcoe/awesome-cross-platform-nodejs)
 - [Node Frameworks](http://nodeframework.com/)    
 - [phalcon](https://github.com/sergeyklay/awesome-phalcon)
 - [awesome-rack](https://github.com/coopermaa/awesome-rack)
