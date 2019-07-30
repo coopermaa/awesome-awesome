@@ -23,6 +23,8 @@ awesome-awesome
 
 ## Computer Science
 
+- [computer-science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
+
 ## Programming Languages
 
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
