@@ -32,6 +32,8 @@ awesome-awesome
 - [awesome-compilers](https://github.com/aalhour/awesome-compilers)
 - [awesome-jit](https://github.com/wdv4758h/awesome-jit)
 - [awesome-math](https://github.com/rossant/awesome-math)
+- [awesome-provable](https://github.com/awesomo4000/awesome-provable) - A curated set of links to formal methods involving provable code.
+- [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 ## Programming Languages
 
