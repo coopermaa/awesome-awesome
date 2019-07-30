@@ -102,6 +102,9 @@ awesome-awesome
 - [search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization)
 - [selenium](https://github.com/christian-bromann/awesome-selenium)
 - [vue.js](https://github.com/vuejs/awesome-vue)
+- [Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)
+  - [staticgen](https://github.com/netlify/staticgen)
+  - [awesome-static-generators](https://github.com/myles/awesome-static-generators)
 - [webcomponents](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [web performance optimization](https://github.com/davidsonfellipe/awesome-wpo)
 
@@ -237,9 +240,6 @@ awesome-awesome
 - [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
-- [Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)
-  - [staticgen](https://github.com/netlify/staticgen)
-  - [awesome-static-generators](https://github.com/myles/awesome-static-generators)
 - [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) *(from hakcer news)*
 - [workshopper](https://github.com/therebelrobot/awesome-workshopper)
 
