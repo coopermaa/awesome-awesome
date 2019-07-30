@@ -18,6 +18,7 @@ awesome-awesome
 - [IoT](#iot)
 - [Game](#game)
 - [Networking and Security](#networking-and-security)
+- [Artificial Intelligence](#artificial-intelligence)
 - [Miscellaneous](#miscellaneous)
 - [awesome of awesome](#awesome-of-awesome)
 
@@ -206,6 +207,8 @@ awesome-awesome
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest)
 - [awesome-security](https://github.com/sbilly/awesome-security)
 - [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn)
+
+## Artificial Intelligence
 
 ## Miscellaneous
 
