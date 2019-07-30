@@ -27,11 +27,12 @@ awesome-awesome
 - [computer-science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science!
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+- [awesome-math](https://github.com/rossant/awesome-math)
+- [awesome-provable](https://github.com/awesomo4000/awesome-provable) - A curated set of links to formal methods involving provable code.
+- [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing)
 - [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 - [awesome-compilers](https://github.com/aalhour/awesome-compilers)
 - [awesome-jit](https://github.com/wdv4758h/awesome-jit)
-- [awesome-math](https://github.com/rossant/awesome-math)
-- [awesome-provable](https://github.com/awesomo4000/awesome-provable) - A curated set of links to formal methods involving provable code.
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 ## Programming Languages
