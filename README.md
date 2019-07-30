@@ -212,6 +212,7 @@ awesome-awesome
 - [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
+- [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) *(Neural networks)*
 - [awesome-nlp](https://github.com/keon/awesome-nlp)
 - [awesome-R](https://github.com/qinwf/awesome-R)
 
@@ -222,7 +223,6 @@ awesome-awesome
 - [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd)
 - [awesome-db](https://github.com/numetriclabz/awesome-db)
 - [awesome-devops](https://github.com/AcalephStorage/awesome-devops)
-- [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) *(Neural networks)*
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [awesome-json](https://github.com/burningtree/awesome-json)
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
