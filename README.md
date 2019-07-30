@@ -210,6 +210,7 @@ awesome-awesome
 
 - [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [awesome-nlp](https://github.com/keon/awesome-nlp)
 
 ## Miscellaneous
 
