@@ -105,6 +105,7 @@ awesome-awesome
 - [Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)
   - [staticgen](https://github.com/netlify/staticgen)
   - [awesome-static-generators](https://github.com/myles/awesome-static-generators)
+- [awesome-jamstack](https://github.com/automata/awesome-jamstack)
 - [webcomponents](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [web performance optimization](https://github.com/davidsonfellipe/awesome-wpo)
 
