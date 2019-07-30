@@ -31,6 +31,7 @@ awesome-awesome
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [awesome-compilers](https://github.com/aalhour/awesome-compilers)
 - [awesome-jit](https://github.com/wdv4758h/awesome-jit)
+- [awesome-math](https://github.com/rossant/awesome-math)
 
 ## Programming Languages
 
