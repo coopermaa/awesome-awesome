@@ -5,6 +5,7 @@ awesome-awesome
 
 # Contents
 
+- [Computer Science](#computer-science)
 - [Programming Languages](#programming-languages)
 - [Web Front-end](#web-front-end)
 - [Web Back-end](#web-back-end)
@@ -19,6 +20,8 @@ awesome-awesome
 - [Networking and Security](#networking-and-security)
 - [Miscellaneous](#miscellaneous)
 - [awesome of awesome](#awesome-of-awesome)
+
+## Computer Science
 
 ## Programming Languages
 
