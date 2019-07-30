@@ -212,6 +212,7 @@ awesome-awesome
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
 - [awesome-nlp](https://github.com/keon/awesome-nlp)
+- [awesome-R](https://github.com/qinwf/awesome-R)
 
 ## Miscellaneous
 
