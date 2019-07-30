@@ -25,6 +25,7 @@ awesome-awesome
 
 - [computer-science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science!
+* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 - [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 - [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
