@@ -6,6 +6,7 @@ awesome-awesome
 # Contents
 
 - [Computer Science](#computer-science)
+- [Software Engineering](#software-engineering)
 - [Programming Languages](#programming-languages)
 - [Web Front-end](#web-front-end)
 - [Web Back-end](#web-back-end)
@@ -34,6 +35,8 @@ awesome-awesome
 - [awesome-compilers](https://github.com/aalhour/awesome-compilers)
 - [awesome-jit](https://github.com/wdv4758h/awesome-jit)
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+
+## Software Engineering
 
 ## Programming Languages
 
