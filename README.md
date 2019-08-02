@@ -265,6 +265,7 @@ awesome-awesome
 - [leetcode](https://github.com/gouthampradhan/leetcode)
 - [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
 - [awesome-coding-camps](https://github.com/theodesp/awesome-coding-camps)
+- [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
 
 ## awesome of awesome
 
