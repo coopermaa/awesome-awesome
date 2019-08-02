@@ -215,6 +215,7 @@ awesome-awesome
 
 - [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)
 - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
 - [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) *(Neural networks)*
 - [awesome-nlp](https://github.com/keon/awesome-nlp)
