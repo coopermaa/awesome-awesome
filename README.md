@@ -45,7 +45,7 @@ awesome-awesome
 
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 - [C](https://github.com/aleksandar-todorovic/awesome-c)
-    - by [koz.ross](https://notabug.org/koz.ross/awesome-c)
+  - by [koz.ross](https://notabug.org/koz.ross/awesome-c)
 - [C++](https://github.com/fffaraz/awesome-cpp)
 - [C#](https://github.com/uhub/awesome-c-sharp)
 - [Clojure](https://github.com/razum2um/awesome-clojure)
@@ -64,12 +64,13 @@ awesome-awesome
 - [Groovy](https://github.com/kdabir/awesome-groovy)
 - [Haskell](https://github.com/krispo/awesome-haskell)
 - [Java](https://github.com/akullpp/awesome-java)
-    - [awesome-jvm](https://github.com/deephacks/awesome-jvm)
+  - [awesome-jvm](https://github.com/deephacks/awesome-jvm)
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
+  - [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js) - Functional programming for JavaScript
 - [Julia](https://github.com/svaksha/Julia.jl)
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin)
 - [Lua](https://github.com/LewisJEllis/awesome-lua)
-    - by [forhappy](https://github.com/forhappy/awesome-lua)
+  - by [forhappy](https://github.com/forhappy/awesome-lua)
 - Lisp
   - [Common Lisp](https://github.com/CodyReichert/awesome-cl)
   - Scheme
@@ -80,8 +81,8 @@ awesome-awesome
 - [Python](https://github.com/vinta/awesome-python)
 - [R](https://github.com/qinwf/awesome-R)
 - [Ruby](https://github.com/markets/awesome-ruby)
-    - by [Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
-    - by [saberma](https://github.com/saberma/ruby-dev-bookmarks)
+  - by [Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
+  - by [saberma](https://github.com/saberma/ruby-dev-bookmarks)
 - [Rust](https://github.com/kud1ing/awesome-rust)
 - [Scala](https://github.com/lauris/awesome-scala)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
@@ -128,13 +129,13 @@ awesome-awesome
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
 - [Grails](https://github.com/hitenpratap/awesome-grails)
 - [Laravel](https://github.com/tuwannu/awesome-laravel)
-    - by [chiraggude](https://github.com/chiraggude/awesome-laravel)
+  - by [chiraggude](https://github.com/chiraggude/awesome-laravel)
 - [luvit](https://github.com/luvit/awesome-luvit)
 - [Meteor](https://github.com/gillesfabio/awesome-meteor)
 - [nginx](https://github.com/fcambus/nginx-resources)
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs)
-    - by [vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
-- [Node Frameworks](http://nodeframework.com/)    
+  - by [vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
+- [Node Frameworks](http://nodeframework.com/)
 - [phalcon](https://github.com/sergeyklay/awesome-phalcon)
 - [awesome-rack](https://github.com/coopermaa/awesome-rack)
 - [awesome-sinatra](https://github.com/coopermaa/awesome-sinatra)
@@ -149,11 +150,11 @@ awesome-awesome
 ## Mobile
 
 - [Android](https://github.com/JStumpp/awesome-android)
-    - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
-    - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
+  - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+  - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
 - [Cordova](https://github.com/busterc/awesome-cordova)
 - [iOS](https://github.com/vsouza/awesome-ios)
-    - [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
+  - [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 
 ## Frameworks, runtime environments, editors
@@ -164,7 +165,7 @@ awesome-awesome
 - [.NET Core](https://github.com/thangchung/awesome-dotnet-core)
 - [Git](https://git.wiki.kernel.org/index.php/Interfaces,_frontends,_and_tools)
 - [GitHub](https://github.com/fffaraz/awesome-github)
-    - [GitHub Cheet Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+  - [GitHub Cheet Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Qt](https://github.com/skhaz/awesome-qt)
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode)
 
