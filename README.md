@@ -129,6 +129,7 @@ awesome-awesome
 - [Node Frameworks](http://nodeframework.com/)    
 - [phalcon](https://github.com/sergeyklay/awesome-phalcon)
 - [awesome-rack](https://github.com/coopermaa/awesome-rack)
+- [awesome-sinatra](https://github.com/coopermaa/awesome-sinatra)
 - [Rails](https://github.com/dpaluy/awesome-rails)
   - by [Ekrem Karaca](https://github.com/ekremkaraca/awesome-rails)
   - [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)  
