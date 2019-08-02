@@ -34,6 +34,7 @@ awesome-awesome
 - [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 - [awesome-compilers](https://github.com/aalhour/awesome-compilers)
 - [awesome-jit](https://github.com/wdv4758h/awesome-jit)
+- [functional-programming-learning-path](https://github.com/leandrotk/functional-programming-learning-path)
 
 ## Software Engineering
 
