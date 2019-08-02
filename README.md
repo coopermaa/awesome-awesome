@@ -177,6 +177,7 @@ awesome-awesome
 
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 - [Docker](https://github.com/veggiemonk/awesome-docker)
+- [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
 ## Cloud Computing
 
