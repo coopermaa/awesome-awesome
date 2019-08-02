@@ -261,6 +261,7 @@ awesome-awesome
 - [workshopper](https://github.com/therebelrobot/awesome-workshopper)
 - [awesome-english](https://github.com/yvoronoy/awesome-english)
 - [awesome-katas](https://github.com/gamontal/awesome-katas)
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 ## awesome of awesome
 
