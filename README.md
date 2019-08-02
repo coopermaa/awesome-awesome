@@ -80,6 +80,7 @@ awesome-awesome
 - [Scala](https://github.com/lauris/awesome-scala)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 - [TypeScript](https://github.com/dzharii/awesome-typescript)
+- [WebAssembly](https://github.com/mbasso/awesome-wasm)
 
 ## Web Front-end
 
