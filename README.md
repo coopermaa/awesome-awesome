@@ -263,6 +263,7 @@ awesome-awesome
 - [awesome-katas](https://github.com/gamontal/awesome-katas)
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [leetcode](https://github.com/gouthampradhan/leetcode)
+- [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
 
 ## awesome of awesome
 
