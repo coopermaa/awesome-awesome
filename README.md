@@ -39,6 +39,7 @@ awesome-awesome
 ## Software Engineering
 
 - [awesome-agile](https://github.com/lorabv/awesome-agile)
+- [awesome-devops](https://github.com/AcalephStorage/awesome-devops)
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
 - [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd)
@@ -242,7 +243,6 @@ awesome-awesome
 - [awesome-apple](https://github.com/joeljfischer/awesome-apple)
 - [awesome-cheatseet](https://github.com/detailyang/awesome-cheatsheet)
 - [awesome-db](https://github.com/numetriclabz/awesome-db)
-- [awesome-devops](https://github.com/AcalephStorage/awesome-devops)
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [awesome-json](https://github.com/burningtree/awesome-json)
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
