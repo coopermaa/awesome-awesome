@@ -41,6 +41,7 @@ awesome-awesome
 - [awesome-agile](https://github.com/lorabv/awesome-agile)
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
+- [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd)
 
 ## Programming Languages
 
@@ -240,7 +241,6 @@ awesome-awesome
 
 - [awesome-apple](https://github.com/joeljfischer/awesome-apple)
 - [awesome-cheatseet](https://github.com/detailyang/awesome-cheatsheet)
-- [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd)
 - [awesome-db](https://github.com/numetriclabz/awesome-db)
 - [awesome-devops](https://github.com/AcalephStorage/awesome-devops)
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
