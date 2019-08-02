@@ -39,6 +39,7 @@ awesome-awesome
 
 - [awesome-agile](https://github.com/lorabv/awesome-agile)
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
 
 ## Programming Languages
 
