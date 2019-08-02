@@ -187,6 +187,7 @@ awesome-awesome
 - [awesome-openstack](https://github.com/ramitsurana/awesome-openstack)
 - [free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [Mesos](https://github.com/dharmeshkakadia/awesome-mesos)
+- [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)
 
 ## Big Data
 
