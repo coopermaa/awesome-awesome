@@ -37,6 +37,7 @@ awesome-awesome
 
 ## Software Engineering
 
+- [awesome-agile](https://github.com/lorabv/awesome-agile)
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 ## Programming Languages
