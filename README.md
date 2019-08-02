@@ -81,6 +81,7 @@ awesome-awesome
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 - [TypeScript](https://github.com/dzharii/awesome-typescript)
 - [WebAssembly](https://github.com/mbasso/awesome-wasm)
+  - [awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs)
 
 ## Web Front-end
 
