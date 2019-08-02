@@ -217,6 +217,7 @@ awesome-awesome
 ## Artificial Intelligence
 
 - [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+- [awesome-AI-books](https://github.com/zslucky/awesome-AI-books)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)
 - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
