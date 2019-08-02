@@ -247,6 +247,7 @@ awesome-awesome
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
 - [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) *(from hakcer news)*
 - [workshopper](https://github.com/therebelrobot/awesome-workshopper)
+- [awesome-english](https://github.com/yvoronoy/awesome-english)
 
 ## awesome of awesome
 
