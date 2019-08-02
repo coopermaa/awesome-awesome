@@ -34,9 +34,10 @@ awesome-awesome
 - [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 - [awesome-compilers](https://github.com/aalhour/awesome-compilers)
 - [awesome-jit](https://github.com/wdv4758h/awesome-jit)
-- [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 ## Software Engineering
+
+- [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 ## Programming Languages
 
