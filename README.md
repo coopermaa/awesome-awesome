@@ -264,6 +264,7 @@ awesome-awesome
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [leetcode](https://github.com/gouthampradhan/leetcode)
 - [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
+- [awesome-coding-camps](https://github.com/theodesp/awesome-coding-camps)
 
 ## awesome of awesome
 
