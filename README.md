@@ -290,6 +290,7 @@ awesome-awesome
 - [awesome-coding-camps](https://github.com/theodesp/awesome-coding-camps)
 - [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
 - [awesome-ecommerce-stack](https://github.com/nparsons08/awesome-ecommerce-stack)
+- [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)
 
 ## awesome of awesome
 
