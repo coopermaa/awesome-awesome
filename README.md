@@ -27,6 +27,7 @@ awesome-awesome
 ## Roadmaps
 
 - [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps)
+- [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Web Developer roadmap
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 
