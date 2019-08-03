@@ -27,6 +27,7 @@ awesome-awesome
 ## Roadmaps
 
 - Computer Science
+  - [Teach Yourself Computer Science](https://teachyourselfcs.com/) - written by [Ozan Onay](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck), instructors at the [Bradfield School of Computer Science](https://bradfieldcs.com/) in San Francisco
   - [computer-science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
 - [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps)
 - [android-developer-roadmap](https://github.com/mobile-roadmap/android-developer-roadmap)
