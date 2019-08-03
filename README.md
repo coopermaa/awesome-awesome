@@ -30,6 +30,7 @@ awesome-awesome
   - [Massachusetts Institute of Technology](https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/curriculum)
   - [Carnegie Mellon University](http://coursecatalog.web.cmu.edu/schoolofcomputerscience/undergraduatecomputerscience)  
   - [Stanford University](https://cs.stanford.edu/degrees/undergrad/)
+  - [University of California, Berkeley](https://eecs.berkeley.edu/academics/undergraduate)  
 - Computer Science (Contributed)
   - [Teach Yourself Computer Science](https://teachyourselfcs.com/) - written by [Ozan Onay](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck), instructors at the [Bradfield School of Computer Science](https://bradfieldcs.com/) in San Francisco
   - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum)
