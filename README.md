@@ -26,9 +26,12 @@ awesome-awesome
 
 ## Roadmaps
 
-- Computer Science
+- Top Computer Science Programs
+  - [Carnegie Mellon University](http://coursecatalog.web.cmu.edu/schoolofcomputerscience/undergraduatecomputerscience)
+- Computer Science (Contributed)
   - [Teach Yourself Computer Science](https://teachyourselfcs.com/) - written by [Ozan Onay](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck), instructors at the [Bradfield School of Computer Science](https://bradfieldcs.com/) in San Francisco
-  - [computer-science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
+  - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum)
+  - [computer-science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!  
 - [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps)
 - [android-developer-roadmap](https://github.com/mobile-roadmap/android-developer-roadmap)
 - [angular-developer-roadmap](https://github.com/sulco/angular-developer-roadmap)
