@@ -289,6 +289,7 @@ awesome-awesome
 - [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
 - [awesome-coding-camps](https://github.com/theodesp/awesome-coding-camps)
 - [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 - [awesome-ecommerce-stack](https://github.com/nparsons08/awesome-ecommerce-stack)
 - [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)
 - [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
