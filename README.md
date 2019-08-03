@@ -292,6 +292,7 @@ awesome-awesome
 - [awesome-ecommerce-stack](https://github.com/nparsons08/awesome-ecommerce-stack)
 - [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)
 - [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
+- [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - important podcasts for software programmers.
 
 ## awesome of awesome
 
