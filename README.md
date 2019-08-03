@@ -63,6 +63,7 @@ awesome-awesome
 - [awesome-agile](https://github.com/lorabv/awesome-agile)
 - [awesome-devops](https://github.com/AcalephStorage/awesome-devops)
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
 - [awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
 - [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd)
 - [awesome-microservice](https://github.com/wanghaisheng/awesome-microservice)
