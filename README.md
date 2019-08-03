@@ -43,6 +43,7 @@ awesome-awesome
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
 - [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd)
+- [awesome-microservice](https://github.com/wanghaisheng/awesome-microservice)
 
 ## Programming Languages
 
@@ -246,7 +247,6 @@ awesome-awesome
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [awesome-json](https://github.com/burningtree/awesome-json)
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
-- [awesome-microservice](https://github.com/wanghaisheng/awesome-microservice)
 - [awesome-mooc](https://github.com/fffaraz/MOOC)
 - [awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters)
 - [awesome-regex](https://github.com/aloisdg/awesome-regex)
