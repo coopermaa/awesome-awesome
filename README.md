@@ -27,6 +27,7 @@ awesome-awesome
 ## Roadmaps
 
 - [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps)
+- [android-developer-roadmap](https://github.com/mobile-roadmap/android-developer-roadmap)
 - [angular-developer-roadmap](https://github.com/sulco/angular-developer-roadmap)
 - [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Web Developer roadmap
