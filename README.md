@@ -26,6 +26,8 @@ awesome-awesome
 
 ## Roadmaps
 
+- Computer Science
+  - [computer-science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
 - [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps)
 - [android-developer-roadmap](https://github.com/mobile-roadmap/android-developer-roadmap)
 - [angular-developer-roadmap](https://github.com/sulco/angular-developer-roadmap)
@@ -38,7 +40,6 @@ awesome-awesome
 
 ## Computer Science
 
-- [computer-science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science!
 - [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 - [awesome-math](https://github.com/rossant/awesome-math)
