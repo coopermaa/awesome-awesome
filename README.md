@@ -27,6 +27,7 @@ awesome-awesome
 ## Roadmaps
 
 - [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Web Developer roadmap
 
 ## Computer Science
 
