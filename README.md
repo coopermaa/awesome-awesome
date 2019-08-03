@@ -265,6 +265,7 @@ awesome-awesome
 - [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) *(from hakcer news)*
 - [workshopper](https://github.com/therebelrobot/awesome-workshopper)
 - [awesome-english](https://github.com/yvoronoy/awesome-english)
+- [awesome-physics](https://github.com/wbierbower/awesome-physics)
 - [awesome-katas](https://github.com/gamontal/awesome-katas)
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [leetcode](https://github.com/gouthampradhan/leetcode)
