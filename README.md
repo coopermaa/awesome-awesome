@@ -32,6 +32,7 @@ awesome-awesome
 - [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Web Developer roadmap
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
+- [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap)
 
 ## Computer Science
 
