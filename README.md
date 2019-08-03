@@ -291,6 +291,7 @@ awesome-awesome
 - [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
 - [awesome-ecommerce-stack](https://github.com/nparsons08/awesome-ecommerce-stack)
 - [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)
+- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
 
 ## awesome of awesome
 
