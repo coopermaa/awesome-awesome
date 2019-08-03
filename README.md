@@ -26,6 +26,8 @@ awesome-awesome
 
 ## Roadmaps
 
+- [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps)
+
 ## Computer Science
 
 - [computer-science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
