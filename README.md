@@ -33,6 +33,7 @@ awesome-awesome
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Web Developer roadmap
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 - [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap)
+- [vue-developer-roadmap](https://github.com/marekbrainhub/vue-developer-roadmap)
 
 ## Computer Science
 
