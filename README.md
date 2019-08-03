@@ -244,6 +244,7 @@ awesome-awesome
 
 ## Networking and Security
 
+- [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools)
   - by [coopermaa](https://github.com/coopermaa/awesome-pcaptools)  
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest)
@@ -268,7 +269,6 @@ awesome-awesome
 - [awesome-db](https://github.com/numetriclabz/awesome-db)
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [awesome-json](https://github.com/burningtree/awesome-json)
-- [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [awesome-mooc](https://github.com/fffaraz/MOOC)
 - [awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters)
 - [awesome-regex](https://github.com/aloisdg/awesome-regex)
