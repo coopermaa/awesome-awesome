@@ -100,7 +100,7 @@ awesome-awesome
   - by [forhappy](https://github.com/forhappy/awesome-lua)
 - Lisp
   - [Common Lisp](https://github.com/CodyReichert/awesome-cl)
-  - Scheme
+  - [awesome-scheme](https://github.com/theodesp/awesome-scheme)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
 - [Perl](https://github.com/hachiojipm/awesome-perl)
 - [PHP](https://github.com/ziadoz/awesome-php)
