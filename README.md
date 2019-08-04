@@ -107,6 +107,7 @@ awesome-awesome
 - [PureScript](https://github.com/passy/awesome-purescript)
 - [Python](https://github.com/vinta/awesome-python)
 - [R](https://github.com/qinwf/awesome-R)
+  - [awesome-rshiny](https://github.com/grabear/awesome-rshiny)
 - [Ruby](https://github.com/markets/awesome-ruby)
   - by [Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
   - by [saberma](https://github.com/saberma/ruby-dev-bookmarks)
