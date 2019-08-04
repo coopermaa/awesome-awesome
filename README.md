@@ -146,6 +146,7 @@ awesome-awesome
 - [awesome-jamstack](https://github.com/automata/awesome-jamstack)
 - [webcomponents](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [web performance optimization](https://github.com/davidsonfellipe/awesome-wpo)
+- [awesome-dataviz](https://github.com/fasouto/awesome-dataviz)
 
 ## Web Back-end
 
