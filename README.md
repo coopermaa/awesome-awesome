@@ -99,6 +99,7 @@ awesome-awesome
 - [Lua](https://github.com/LewisJEllis/awesome-lua)
   - by [forhappy](https://github.com/forhappy/awesome-lua)
 - Lisp
+  - [awesome-clojure](https://github.com/razum2um/awesome-clojure)
   - [Common Lisp](https://github.com/CodyReichert/awesome-cl)
   - [awesome-scheme](https://github.com/theodesp/awesome-scheme)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
