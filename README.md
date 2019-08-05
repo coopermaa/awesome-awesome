@@ -300,6 +300,7 @@ awesome-awesome
 - [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)
 - [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - important podcasts for software programmers.
+- [awesome-hdl](https://github.com/drom/awesome-hdl)
 
 ## awesome of awesome
 
