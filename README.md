@@ -102,6 +102,7 @@ awesome-awesome
   - [awesome-clojure](https://github.com/razum2um/awesome-clojure)
   - [Common Lisp](https://github.com/CodyReichert/awesome-cl)
   - [awesome-scheme](https://github.com/theodesp/awesome-scheme)
+  - [awesome-racket](https://github.com/avelino/awesome-racket)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
 - [Perl](https://github.com/hachiojipm/awesome-perl)
 - [PHP](https://github.com/ziadoz/awesome-php)
