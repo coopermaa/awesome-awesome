@@ -103,6 +103,7 @@ awesome-awesome
   - [Common Lisp](https://github.com/CodyReichert/awesome-cl)
   - [awesome-scheme](https://github.com/theodesp/awesome-scheme)
   - [awesome-racket](https://github.com/avelino/awesome-racket)
+- [Nim](https://github.com/VPashkov/awesome-nim)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
 - [Perl](https://github.com/hachiojipm/awesome-perl)
 - [PHP](https://github.com/ziadoz/awesome-php)
