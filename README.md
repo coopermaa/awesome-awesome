@@ -251,6 +251,7 @@ awesome-awesome
 ## Networking and Security
 
 - [awesome-networking](https://github.com/facyber/awesome-networking)
+  - by [nyquist](https://github.com/nyquist/awesome-networking)
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools)
   - by [coopermaa](https://github.com/coopermaa/awesome-pcaptools)  
