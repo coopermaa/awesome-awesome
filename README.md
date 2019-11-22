@@ -185,6 +185,7 @@ awesome-awesome
 - [Android](https://github.com/JStumpp/awesome-android)
   - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
   - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
+  - [flutter](https://github.com/Solido/awesome-flutter)
 - [Cordova](https://github.com/busterc/awesome-cordova)
 - [iOS](https://github.com/vsouza/awesome-ios)
   - [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
